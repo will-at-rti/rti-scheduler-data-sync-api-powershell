@@ -1,4 +1,4 @@
-# Example Powershell implementation of RTI Scheduler's Data Sync API
+# Example PowerShell implementation of RTI Scheduler's Data Sync API
 
 ## Using this script
 1) Download/Extract these files to a directory you'd like to run your script from.
